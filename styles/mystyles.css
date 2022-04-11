@@ -1,27 +1,23 @@
+/* Kaitlyn Fitzgerald 4/11/2022 */
+
 body {
     background-color: rgb(250, 224, 228);
 }
 
-.unorderedlist {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #111;
-  }
+.indent {
+    text-indent: 15px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 22px ;
+}
+
+.bolder {
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.visited {
+    color: blue;
+}
